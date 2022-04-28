@@ -1,4 +1,4 @@
-![Logo](../assets/riskywhiskey_logo.png)
+![Logo](/assets/riskywhiskey_logo.png)
 
 # RiskyWhiskey
 
